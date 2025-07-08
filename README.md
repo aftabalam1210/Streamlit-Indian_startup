@@ -27,7 +27,7 @@ This Streamlit app provides a comprehensive interactive dashboard for analyzing 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/startup-funding-analysis.git
+git clone https://github.com/aftabalam1210/startup-funding-analysis.git
 cd startup-funding-analysis
 ```
 
